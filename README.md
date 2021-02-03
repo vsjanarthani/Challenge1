@@ -4,8 +4,8 @@ This is a website for Horiseon. Its done as part of the weekly challenge in codi
 ## Live URL
 Please find the website deployed [here] (https://vsjanarthani.github.io/Challenge1/)## Built With
 ## Built With
-*HTML
-*CSS
+* HTML
+* CSS
 ## Screenshot
 ![code](./images/codescreenshot.png)
 ## Contribution
