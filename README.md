@@ -1,4 +1,4 @@
-Weekly Challenge 1
+#Weekly Challenge 1
 #Description
 This is a website for Horiseon. Its done as part of the weekly challenge in coding bootcamp at UC Berkeley. The objective of this project is to Refactored the code to meet acceptance criteria and also to included appropriate comments, closing tags and alternative texts for images. 
 #Live URL
